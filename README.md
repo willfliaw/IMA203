@@ -21,7 +21,7 @@ Students are expected to have basic knowledge of:
 ## Course Structure
 
 - Total Hours: 24 hours
-- *Credits**: 2.5 ECTS
+- Credits: 2.5 ECTS
 - Evaluation: Written exam and practical reports.
 
 ## Instructor
